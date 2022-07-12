@@ -1,0 +1,5 @@
+			LAÇOS DE REPETIÇÃO - JAVA 11/07/22
+
+LAÇO WHILE (Enquanto)
+ 
+DO-WHILE 

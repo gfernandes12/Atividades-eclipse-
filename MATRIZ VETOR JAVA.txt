@@ -1,0 +1,23 @@
+		VETORES E MATRIZES - JAVA 12/07 
+
+int nomeVariavel = 20; ----> (exemplo)
+
+int[] nomeVetor = new int[3];
+
+*Utiliza-se laço para manipular o vetor
+*utiliza ----> for(int i = 0; i <= 2; i++{ 
+nomeVetor
+
+---------------------------------------------------
+VETORES
+
+int[][] nomeMatriz = new int[2][2];
+
+for(linhas){
+    for(colunas){
+}
+}
+
+
+	
+
